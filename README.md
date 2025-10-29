@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Minh Hao<br>🔭 I’m currently working on **Computer Science**<br>👯 I’m looking to collaborate on **AI project tbh**<br>🤝 I’m looking for help with **Machine Learning and Deep Learning ToT**<br>🌱 I’m currently learning **IT** in *University of Science - VNUHCM*<br>💬 Ask me about *Competitive programming*<br>⚡ Fun fact: I'm not really good at **Competitive programming**
+Hi there, I'm Minh Hao<br>🔭 I’m currently working on **Computer Science**<br>👯 I’m looking to collaborate on **AI project tbh**<br>🤝 I’m looking for help with **Machine Learning and Deep Learning ToT**<br>🌱 I’m currently learning **IT** at *University of Science - VNUHCM*<br>💬 Ask me about *Competitive programming*<br>⚡ Fun fact: I'm not really good at **Competitive programming**
 
 
 ## 🌐 Socials:
