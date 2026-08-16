@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, I'm Minh Hao<br>🔭 I’m currently working on **Computer Science**<br>👯 I’m looking to collaborate on **AI project tbh**<br>🤝 I’m looking for help with **Machine Learning and Deep Learning ToT**<br>🌱 I’m currently studying **IT** at *University of Science - VNUHCM*<br>💬 Ask me about *Competitive programming* (JK) <br>⚡ Fun fact: I'm not really good at **Competitive programming**
+Third-year IT student @ VNUHCM-US
+Interested in Machine Learning, Deep Learning & Data Science
+Currently exploring ML fundamentals and building neural networks from scratch
 
 
 ## 🌐 Socials:
