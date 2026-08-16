@@ -1,6 +1,8 @@
 # 💫 About Me:
 Third-year IT student @ VNUHCM-US
+
 Interested in Machine Learning, Deep Learning & Data Science
+
 Currently exploring ML fundamentals and building neural networks from scratch
 
 
